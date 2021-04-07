@@ -152,6 +152,8 @@ host-suffix, tencent.com, Domestic
 host-suffix, tencent-cloud.net, Domestic
 host-suffix, tenpay.com, Domestic
 host, file-igamecj.akamaized.net, Domestic
+# > dida365
+host-suffix, dida365.com, Domestic
 # > ulike
 host-suffix, byteoversea.com, Domestic
 host-suffix, faceu.mobi, Domestic
